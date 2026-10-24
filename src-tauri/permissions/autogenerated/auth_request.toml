@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-auth-request"
+description = "Enables the auth_request command without any pre-configured scope."
+commands.allow = ["auth_request"]
+
+[[permission]]
+identifier = "deny-auth-request"
+description = "Denies the auth_request command without any pre-configured scope."
+commands.deny = ["auth_request"]

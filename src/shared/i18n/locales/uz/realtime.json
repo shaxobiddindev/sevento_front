@@ -1,0 +1,40 @@
+{
+  "status": {
+    "online": "Jonli",
+    "connecting": "Ulanmoqda…",
+    "offline": "Uzilgan",
+    "idle": "Ulanmagan"
+  },
+  "banner": "Jonli yangilanish uzildi — ma'lumotlar har 30 soniyada qayta yuklanadi, ulanish tiklanishi kutilmoqda.",
+  "notice": {
+    "title": "Tizim xabari"
+  },
+  "sessionRefreshed": "Huquqlaringiz o'zgardi, ma'lumotlar yangilandi",
+  "tooManyConnections": "Bir vaqtda juda ko'p oyna ochilgan, jonli yangilanish 30 soniyadan keyin qayta uriniladi",
+  "noticeForm": {
+    "title": "Hammaga xabar yuborish",
+    "hint": "Hozir tizimda ishlayotgan barcha foydalanuvchilarga darhol ko'rsatiladi",
+    "message": "Xabar matni",
+    "level": "Daraja",
+    "levels": {
+      "info": "Ma'lumot",
+      "warning": "Ogohlantirish",
+      "error": "Muhim"
+    },
+    "send": "Yuborish",
+    "sent": "Xabar yuborildi"
+  },
+  "debtOverdue": "Muddati o'tgan qarz: {{customer}}",
+  "debtOverdueText": "{{amount}} {{currency}} — {{days}} kun o'tdi",
+  "creditWarning": "Kredit limitiga yaqin: {{customer}}",
+  "creditWarningText": "{{percent}}% ishlatildi ({{used}} / {{limit}} {{base}})",
+  "transferIncoming": "Yangi ko'chirish keldi: {{number}}",
+  "transferIncomingText": "{{from}} → {{to}}, {{count}} ta tovar. Qabul qilishni kutmoqda",
+  "transferReceived": "Ko'chirish qabul qilindi: {{number}}",
+  "transferReceivedText": "{{to}} qabul qildi",
+  "transferShortage": "Ko'chirishda kamomad: {{number}}",
+  "transferShortageText": "{{to}}: {{items}}",
+  "transferCancelled": "Ko'chirish bekor qilindi: {{number}}",
+  "transferCancelledText": "{{from}}: {{reason}}",
+  "open": "Ochish"
+}

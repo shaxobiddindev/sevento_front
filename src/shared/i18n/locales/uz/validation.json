@@ -1,0 +1,11 @@
+{
+  "required": "Majburiy maydon",
+  "minLength": "Kamida {{min}} ta belgi",
+  "maxLength": "Ko'pi bilan {{max}} ta belgi",
+  "invalid": "Noto'g'ri qiymat",
+  "number": "Son kiriting",
+  "positive": "Musbat son bo'lishi kerak",
+  "integer": "Butun son bo'lishi kerak",
+  "slug": "Faqat lotin harflari, raqam, chiziqcha",
+  "alnum": "Faqat harf va raqamlar"
+}

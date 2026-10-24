@@ -1,0 +1,99 @@
+{
+  "app": "Sevento",
+  "actions": {
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "create": "Yaratish",
+    "edit": "Tahrirlash",
+    "delete": "O'chirish",
+    "close": "Yopish",
+    "search": "Qidirish",
+    "filter": "Filtr",
+    "reset": "Tozalash",
+    "back": "Orqaga",
+    "confirm": "Tasdiqlash",
+    "add": "Qo'shish",
+    "refresh": "Yangilash",
+    "details": "Batafsil",
+    "logout": "Chiqish"
+  },
+  "status": {
+    "active": "Faol",
+    "inactive": "Faol emas",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "loading": "Yuklanmoqda…",
+    "saving": "Saqlanmoqda…",
+    "saved": "Saqlandi",
+    "deleted": "O'chirildi",
+    "empty": "Ma'lumot yo'q",
+    "notFound": "Topilmadi",
+    "error": "Xatolik"
+  },
+  "table": {
+    "page": "Sahifa",
+    "of": "/",
+    "total": "Jami: {{count}}",
+    "perPage": "Sahifada",
+    "prev": "Oldingi",
+    "next": "Keyingi",
+    "actions": "Amallar",
+    "all": "Hammasi"
+  },
+  "fields": {
+    "name": "Nomi",
+    "code": "Kod",
+    "type": "Turi",
+    "phone": "Telefon",
+    "address": "Manzil",
+    "description": "Tavsif",
+    "createdAt": "Yaratilgan",
+    "updatedAt": "O'zgartirilgan",
+    "isActive": "Faol"
+  },
+  "branch": {
+    "all": "Barcha nuqtalar",
+    "select": "Nuqta",
+    "shop": "Do'kon",
+    "warehouse": "Ombor"
+  },
+  "confirm": {
+    "title": "Tasdiqlaysizmi?",
+    "deleteText": "Bu amalni qaytarib bo'lmaydi."
+  },
+  "pages": {
+    "forbidden": {
+      "title": "Ruxsat yo'q",
+      "text": "Bu sahifani ko'rish uchun huquqingiz yetarli emas."
+    },
+    "notFound": {
+      "title": "Sahifa topilmadi",
+      "text": "Bunday manzil mavjud emas."
+    },
+    "home": "Bosh sahifa"
+  },
+  "dashboard": {
+    "title": "Boshqaruv paneli",
+    "welcome": "Xush kelibsiz, {{name}}!",
+    "role": "Rol",
+    "branches": "Nuqtalar",
+    "capabilities": "Huquqlar",
+    "quickLinks": "Tez o'tish"
+  },
+  "offline": {
+    "title": "Internet yo'q",
+    "text": "Server bilan aloqa o'rnatib bo'lmadi. Internet ulanishini tekshiring — aloqa tiklanishi bilan ilova o'zi davom etadi.",
+    "retry": "Qayta urinish",
+    "banner": "Internet aloqasi yo'q — ma'lumotlar yangilanmaydi va o'zgarishlar saqlanmaydi. Aloqa tiklanishini kuting."
+  },
+  "pwa": {
+    "updateTitle": "Yangi versiya tayyor",
+    "updateText": "Ilovaning yangi versiyasi yuklandi. Joriy ishni tugatib, yangilang.",
+    "update": "Yangilash",
+    "later": "Keyinroq"
+  },
+  "desktop": {
+    "saveFailed": "Faylni saqlab bo'lmadi",
+    "openFailed": "Faylni ochib bo'lmadi"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Valyuta kursi",
+  "subtitle": "Kurs so'mda: 1 birlik valyuta = N so'm",
+  "quoteSymbol": "so'm",
+  "noRate": "Kurs kiritilmagan",
+  "asOf": "{{date}} holatiga",
+  "source": {
+    "cbu": "Markaziy bank",
+    "manual": "Qo'lda"
+  },
+  "setRate": "Kursni kiritish",
+  "fetch": "Markaziy bankdan yangilash",
+  "fetched": "Kurslar yangilandi: {{count}} ta",
+  "fetchedNone": "Yangi kurs topilmadi",
+  "rateSaved": "Kurs saqlandi",
+  "rateUpdatedToast": "Valyuta kursi yangilandi",
+  "form": {
+    "currency": "Valyuta",
+    "rate": "Kurs (so'm)",
+    "date": "Sana",
+    "dateHint": "Bo'sh — bugun. Shu kungi Markaziy bank kursini almashtiradi"
+  },
+  "history": {
+    "title": "Kurslar tarixi",
+    "date": "Sana",
+    "currency": "Valyuta",
+    "rate": "Kurs",
+    "source": "Manba",
+    "by": "Kiritgan",
+    "allCurrencies": "Barcha valyutalar"
+  },
+  "currencies": {
+    "title": "Valyutalar",
+    "new": "Yangi valyuta",
+    "edit": "Valyutani tahrirlash",
+    "code": "Kod (ISO)",
+    "codeHint": "3 ta harf: USD, EUR, RUB…",
+    "name": "Nomi",
+    "symbol": "Belgi",
+    "decimalPlaces": "Kasr xonalari",
+    "sortOrder": "Tartib",
+    "created": "Valyuta qo'shildi",
+    "updated": "Valyuta saqlandi"
+  }
+}

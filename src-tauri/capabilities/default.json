@@ -1,0 +1,12 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Asosiy oyna: Tauri asosiy API va ilova buyruqlari (auth, faylni saqlash/ochish). HTTP ruxsati (faqat server manziliga) — scripts/tauri.mjs build paytida qo'shadi.",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "allow-auth-request",
+    "allow-save-document",
+    "allow-open-document"
+  ]
+}
